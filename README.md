@@ -11,7 +11,7 @@ Projeto acadêmico de modelagem probabilística (LogLoss multiclasse) para o Cam
 
 ## Submissões
 
-| Versão | Arquivo | Modelo | LogLoss (validação temporal) |
+| Versão | Arquivo | Modelo | LogLoss (validação estimada) |
 |---|---|---|---|
 | v01 | `submission_28_09.csv` | Logística, 17 variáveis, C=1 | 1.0337 |
 | v02 | `submission_29_09.csv` | Logística, 17 variáveis, C=0.003 | 1.0273 |
